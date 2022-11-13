@@ -27,7 +27,7 @@ new Vue({
         },
         {
           name: "Faded",
-          artist: "Anal Walker",
+          artist: "Alan Walker",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
           source: "mp3/faded.mpeg",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
@@ -43,7 +43,7 @@ new Vue({
         },
         {
           name: "Lean On",
-          artist: "DJ Saanp 🐍, Major Lazer",
+          artist: "DJ Snake, Major Lazer",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
           source: "mp3/leanon.mpeg",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
