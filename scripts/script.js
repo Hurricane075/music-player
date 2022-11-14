@@ -54,7 +54,7 @@ new Vue({
           artist: "Ellie Goudling",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
           source: "mp3/lovemelikeyoudo.mpeg",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          url: "https://youtu.be/AJtDXIazrMo",
           favorited: false
         },
         {
